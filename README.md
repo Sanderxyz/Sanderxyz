@@ -1,5 +1,6 @@
-### Hi, im Sander 👋!
-## Junior HTML/CSS Developer.
+<h1 align="center">Hi 👋, I'm Sander</h1>
+<h3 align="center">I am a Junior Web Developer</h3>
+
 
 - 🔭 Currently, I'm engaged in developing [My Own Site.](https://sanderxyz.nl/)
 

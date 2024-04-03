@@ -2,7 +2,7 @@
 <h3 align="center">I am a Junior Web Developer</h3>
 
 
-- 🔭 Currently, I'm engaged in developing [My Own Site](https://sanderxyz.nl/) **(Launching Soon).
+- 🔭 Currently, I'm engaged in developing [My Own Site](https://sanderxyz.nl/) **(Launching Soon)**.
 
 - 💬 Feel free to inquire about anything related to **Web development.**
 

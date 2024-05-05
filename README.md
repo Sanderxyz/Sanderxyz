@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sander</h1>
-<h3 align="center">I am a Junior Web Developer</h3>
+<h3 align="center">I am a Full Stack Web Developer</h3>
 
 
-- 🔭 Currently, I'm engaged in developing [My Own Site](https://sanderxyz.nl/) **(Launching Soon)**.
+- 🔭 Currently, I'm engaged in developing [My Own Site](https://sanderxyz.nl/).
 
 - 💬 Feel free to inquire about anything related to **Web development.**
 
-- 📫 You can easily reach me at **contact@sanderxyz.nl**
+- 📫 You can easily reach me via [Discord](https://discord.com/users/556766560170016769)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

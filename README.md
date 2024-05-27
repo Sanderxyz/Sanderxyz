@@ -6,7 +6,7 @@
 
 - 💬 Feel free to inquire about anything related to **Web development.**
 
-- 📫 You can easily reach me via [Discord](https://discord.com/users/556766560170016769)**
+- 📫 You can easily reach me via **[Discord](https://discord.com/users/556766560170016769)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

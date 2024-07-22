@@ -18,5 +18,3 @@
 <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
-<h3 align="left">Fun Statistics:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanderxyz&show_icons=true&theme=dark&locale=en&layout=compact" alt="sanderxyz" /></p>

@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sander</h1>
 <h3 align="center">I am a Beginning Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanderxyz&label=Profile%20views&color=000000&style=flat" alt="sanderxyz" /> </p>
 
 - 🔭 Currently, I'm engaged in developing [My Own Site](https://sanderxyz.nl/).
 

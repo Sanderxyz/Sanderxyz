@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sander</h1>
-<h3 align="center">I am a Full Stack Web Developer</h3>
+<h3 align="center">I am a Beginning Developer</h3>
 
 
 - 🔭 Currently, I'm engaged in developing [My Own Site](https://sanderxyz.nl/).
@@ -10,7 +10,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/sanderxyz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sanderxyz" height="30" width="40" /></a>
 <a href="https://discord.com/users/556766560170016769" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sanderxyz" height="30" width="40" /></a>
 </p>
 
